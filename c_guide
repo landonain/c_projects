@@ -12,6 +12,12 @@
 #	-Wno-multichar at the end of compiler to force a compile
 	with multichar things such as '  '
 
+	Git Stuff
+	Adding in files to be ignored involves adding rules
+	to a file that we created ".gitignore" inside the repository
+	Then edit the file and add rules "/filetype.here" for files to
+	ignore
+
 
 
 !!	Vim guide
