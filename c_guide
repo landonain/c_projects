@@ -1,0 +1,24 @@
+#!	C programming guide
+
+
+#	EOF(end of file) in unix is control+z
+	Windows EOF is control+d
+
+#	compiling within unix is cc programnamehere.c
+	windows requires downloading visual tools for c/c++
+
+#	&& == AND
+#	|| == OR
+#	-Wno-multichar at the end of compiler to force a compile
+	with multichar things such as '  '
+
+
+
+!!	Vim guide
+
+	:%s/foo/bar/g
+	%s == substitute replaces all strings 'foo' with 'bar' and /g stands for	global
+
+	for copy paste in vim
+	press v for visual mode - highlight all of the text you want and press
+	y to copy and/or d to cut. To paste press p
